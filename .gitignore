@@ -1,0 +1,18 @@
+# Java
+target/
+*.log
+*.class
+*.jar
+*.war
+.gradle/
+.idea/
+*.iml
+
+# Docker
+**/pgdata/
+**/.env
+
+# System
+.vscode/
+*.swp
+*.bak
